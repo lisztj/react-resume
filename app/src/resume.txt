@@ -1,22 +1,19 @@
-方正
+赵健
 =============
 - 前端攻城狮
-- Node.js开发
-- c/c++游戏开发
+- angular.js开发
+- vue.js开发
 - 数据分析业余爱好者
 
 技能
 =============
 - 前端开发
-- python后端开发
 - node.js 后端开发
-- c/c++游戏开发
 
-工作经历
+就职单位
 =============
-- TachK:前端攻城狮
-- OFbook:c/c++开发
+- 江苏斯诺物联科技有限公司
 
 链接
 =============
-- [本项目的源代码](https://github.com/215566435/React-awesome-resume)
+- [本项目的源代码](https://github.com/lisztj/react-resume)
