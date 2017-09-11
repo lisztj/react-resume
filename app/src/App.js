@@ -84,8 +84,8 @@ export default class Content extends React.Component {
                     dangerouslySetInnerHTML={{ __html: this.state.DOMResumeText }}>
                 </div>
                 <div id="bot" style={{padding:'10px',textAlign:'center',marginTop:'100px',fontSize:'10px',color:'rgba(150, 150, 150, 0.8)'}}>
-                    Powered by
-                    <a href="https://www.zhihu.com/people/fang-zheng-3-34/activities">知乎，方正</a>
+                    
+                    <a href="index.html">跳过 >>></a>
                 </div>
             </div>
         )
