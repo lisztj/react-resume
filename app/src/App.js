@@ -85,7 +85,7 @@ export default class Content extends React.Component {
                 </div>
                 <div id="bot" style={{padding:'10px',textAlign:'center',marginTop:'100px',fontSize:'10px',color:'rgba(150, 150, 150, 0.8)'}}>
                     
-                    <a href="index.php">跳过 >>></a>
+                    <a href="http://zhaojian.gotoip1.com/home1/">跳过 >>></a>
                 </div>
             </div>
         )
