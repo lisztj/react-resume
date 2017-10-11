@@ -37,7 +37,6 @@ const wirteChars = (that, nodeName, char) => new Promise((resolve) => {
         resolve()//一定要写的promise函数，不然你无法获得promise结果
     }, interval)
 })
-
 const writeTo = async (that, nodeName, index, text) => {
     /* 一个字一个字的读咯,这样会获得丝滑柔顺的打字效果... */
     let char = text.slice(index, index + 1)
@@ -48,7 +47,6 @@ const writeTo = async (that, nodeName, index, text) => {
     await wirteChars(that, nodeName, char)
     await writeTo(that, nodeName, index, text)
 }
-
 export default class Content extends React.Component {
     constructor(...prop) {
         super(...prop)
